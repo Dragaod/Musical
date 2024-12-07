@@ -1,0 +1,15 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+body{
+  background-image: url("./assets/imagens/tocandoviolao.jpg");
+  background-size: cover;
+}
+
+main{
+  width: 90%;
+  margin: auto;
+  height: auto;
+}

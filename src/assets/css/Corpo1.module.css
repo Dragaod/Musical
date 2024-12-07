@@ -1,0 +1,12 @@
+.sobre{
+    background-color: red;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 370px;
+    margin-top: 15px;
+}
+
+p{
+    color: rgb(255, 255, 255);
+}
